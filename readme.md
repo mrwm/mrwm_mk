@@ -1,4 +1,4 @@
-# Welcome to the roplug keyboard repo
+# Welcome to the mrwm_mk keyboard repo
 Here, you'll find the files required for compiling QMK firmware for your roplug card.
 
 ## How to use
