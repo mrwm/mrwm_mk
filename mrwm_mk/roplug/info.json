@@ -1,0 +1,21 @@
+{
+  "keyboard_name": "roPlug",
+  "manufacturer": "none",
+  "usb": {
+      "vid": "0xFEED",
+      "pid": "0x6465",
+      "device_version": "0.0.1"
+  }
+  "url": "",
+  "maintainer": "mrwm",
+  "width": 1,
+  "height": 1,
+  "layouts": {
+    "LAYOUT_1x1": {
+      "layout": [
+      {"x":0, "y":0}
+        ]
+      }
+    }
+}
+
